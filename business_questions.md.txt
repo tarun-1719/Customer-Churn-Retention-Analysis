@@ -1,0 +1,27 @@
+# Business Questions — Customer Churn & Retention Analysis
+
+## Project Overview
+
+This project uses MySQL to analyze customer churn patterns and explore customer retention opportunities using the IBM Telco Customer Churn dataset.
+
+## 1. Customer Churn Analysis
+1. What is the total number of customers?
+2. How many customers have churned?
+3. What is the overall customer churn rate?
+4. How does churn vary across contract types?
+5. How does churn vary across internet service types?
+
+## 2. Customer Segmentation
+6. How does churn vary by tenure group?
+7. Which payment methods are associated with higher churn?
+8. How does churn vary by gender?
+9. How does churn vary for senior citizens?
+10. How does churn vary by partner and dependent status?
+
+## 3. Service Analysis
+11. How does phone service relate to customer churn?
+12. How does online security relate to churn?
+13. How does online backup relate to churn?
+14. How does device protection relate to churn?
+15. How does technical support relate to churn?
+16. How does streaming
